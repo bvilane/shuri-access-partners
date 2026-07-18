@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-forest: #1b4332;
+  --color-forest-light: #2d6a4f;
+  --color-gold: #c9a84c;
+  --color-gold-light: #d4b965;
+  --color-ivory: #faf8f5;
+  --color-charcoal: #1a1a1a;
+  --color-urgent: #dc2626;
+  --color-sidebar: #1a2332;
+  --color-sidebar-hover: #243346;
+  --color-sidebar-active: #2e4058;
+}
+
+body {
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+}
