@@ -9,8 +9,8 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "Partners — Shuri Access",
-    template: "%s — Partners — Shuri Access",
+    default: "Partners - Shuri Access",
+    template: "%s - Partners - Shuri Access",
   },
   robots: { index: false, follow: false },
 };
